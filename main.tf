@@ -14,6 +14,6 @@ module "vpc" {
   enable_dhcp_options = true
 }
 locals {
-  prefix="beknazar"
+  prefix="ke"
 }
 
